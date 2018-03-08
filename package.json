@@ -10,5 +10,9 @@
     "typescript": "2.5.3",
     "webpack": "2.2.0",
     "webpack-dev-server": "2.2.0"
+  },
+  "dependencies": {
+    "g": "^2.0.1",
+    "yarn": "^1.5.1"
   }
 }
